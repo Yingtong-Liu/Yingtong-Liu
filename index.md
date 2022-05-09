@@ -7,7 +7,7 @@ I'm currently a Ph.D. candidate in the Department of Computer Science at the Uni
 
 My research focuses on the intersection of operating systems, security, and programming analysis. I enjoy building reliable systems to solve realistic problems in both software engineering and operating systems.
 
-Aside from work, I enjoy running, hiking, and listening to all kinds of music.
+Aside from work, I enjoy running, hiking, writing, and listening to all kinds of music.
 
 ### **Contact me**
 
