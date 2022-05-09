@@ -25,7 +25,7 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 
 ### **My cat**
 
-[Taco](https://drive.google.com/drive/u/1/folders/1EOdUHqBvzgyymPQ0aS11SF9LzkQnP70I) was born on 09/17/2017. I adopted her from Irvine Animal Care Center when she was 3 months old. She is shy and noughty at the same time.
+[Taco](https://drive.google.com/drive/u/1/folders/1EOdUHqBvzgyymPQ0aS11SF9LzkQnP70I) was born on 09/17/2017. I adopted her from Irvine Animal Care Center when she was 3 months old. She is shy and naughty at the same time.
 
 ### **Books**
 
