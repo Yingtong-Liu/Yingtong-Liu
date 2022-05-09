@@ -1,12 +1,12 @@
 ### **Yingtong Liu**
-
-![Me](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/1652056671962.jpeg)
+<img src="https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/1652056671962.jpeg" alt="me" width="200"/>
 
 I'm currently a Ph.D. candidate in the Department of Computer Science at the University of California, Irvine (UCI), working with [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My research interests are in the intersection of operating systems, security, and programming analysis. I enjoy building reliable systems to solve realistic problems in both software engineering and operating systems.
 
 ### contact me
 
 Email:  yingtong at uci dot edu
+
 Office:  Donald Bren Hall #3231
 
 ### Publications
