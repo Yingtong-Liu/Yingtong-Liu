@@ -1,7 +1,18 @@
 ### **Yingtong Liu**
 
-I'm currently a Ph.D. candidate in the Department of Computer Science at the University of California, Irvine (UCI), working with [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My interests are in the intersection of operating systems, security, and programming analysis. I enjoy building reliable systems to solve realistic problems in both software engineering and operating systems.
+I'm currently a Ph.D. candidate in the Department of Computer Science at the University of California, Irvine (UCI), working with [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My research interests are in the intersection of operating systems, security, and programming analysis. I enjoy building reliable systems to solve realistic problems in both software engineering and operating systems.
 
+### Ongoing Project
+
+Reproduing race condition bugs in production kernel Fuzzing - Kernel fuzzing is an efficient technique to hunt hidden bugs inside the kernel. Those bugs are usually missed during the development phase. OS Kernel can be seen as a very complex software which usually has the most complicated bugs. This work focuses on using symbolic execution and static analysis to investigate the hard-to-reproduce race condition bugs reported by syzkaller and automatically generate reproducers for them.
+
+```### Publications
+
+Yingtong Liu, Hsin-Wei Hung, Ardalan Amiri Sani. Mousse: A System for Selective Symbolic Execution of Programs with Untamed Environments. In Proc. ACM European Conference on Computer Systems (EuroSys), April 2020. (source code) (talk) (slides)
+
+Zhihao Yao, Zongheng Ma, Yingtong Liu, Ardalan Amiri Sani, Aparna Chandramowlishwaran. Sugar: Secure GPU Acceleration in Web Browsers. In Proc. ACM Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2018.(Source code)
+
+Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zhang, and Gong Zhang. Multi-Tenant Multi-Objective Bandwidth Allocation in Datacenters Using Stacked Congestion Control. In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2017.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
