@@ -1,4 +1,4 @@
-<img src="https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/1652056671962.jpeg" width="200" height="200">
+<img src="https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/1652056671962.jpeg" width="250" height="250">
 
 ### **About me**
 I'm currently a Ph.D. candidate in the Department of Computer Science at the University of California, Irvine (UCI), working with [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. 
