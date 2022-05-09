@@ -13,11 +13,11 @@ _Office:  Donald Bren Hall #3231_
 
 ### **Publications**
 
-Yingtong Liu, Hsin-Wei Hung, Ardalan Amiri Sani. [Mousse: A System for Selective Symbolic Execution of Programs with Untamed Environments](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/EuroSys20_Mousse_Yingtong.pdf). In Proc. ACM European Conference on Computer Systems (EuroSys), April 2020. [(source code)](https://trusslab.github.io/mousse/) [(slides)](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Mousse_Yingtong_slides_long.pdf)
+Yingtong Liu, Hsin-Wei Hung, Ardalan Amiri Sani. [Mousse: A System for Selective Symbolic Execution of Programs with Untamed Environments](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/EuroSys20_Mousse_Yingtong.pdf). _In Proc. ACM European Conference on Computer Systems (EuroSys), April 2020. [(source code)](https://trusslab.github.io/mousse/) [(slides)](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Mousse_Yingtong_slides_long.pdf)_
 
-Zhihao Yao, Zongheng Ma, Yingtong Liu, Ardalan Amiri Sani, Aparna Chandramowlishwaran. [Sugar: Secure GPU Acceleration in Web Browsers.](https://www.ics.uci.edu/~ardalan/papers/Yao_ASPLOS18.pdf) In Proc. ACM Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2018.[(source code)](https://trusslab.github.io/sugar/)
+Zhihao Yao, Zongheng Ma, Yingtong Liu, Ardalan Amiri Sani, Aparna Chandramowlishwaran. [Sugar: Secure GPU Acceleration in Web Browsers.](https://www.ics.uci.edu/~ardalan/papers/Yao_ASPLOS18.pdf) _In Proc. ACM Int. Conf. Architectural Support for Programming Languages and Operating Systems (ASPLOS), March 2018.[(source code)](https://trusslab.github.io/sugar/)_
 
-Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zhang, and Gong Zhang. [Multi-Tenant Multi-Objective Bandwidth Allocation in Datacenters Using Stacked Congestion Control.](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/c3_infocom17.pdf) In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2017.
+Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zhang, and Gong Zhang. [Multi-Tenant Multi-Objective Bandwidth Allocation in Datacenters Using Stacked Congestion Control.](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/c3_infocom17.pdf) _In Proceedings of IEEE International Conference on Computer Communications (INFOCOM), 2017._
 
 ### **My cat**
 
