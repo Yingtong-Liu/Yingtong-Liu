@@ -1,12 +1,15 @@
 ### **Yingtong Liu**
 
+![Me](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/1652056671962.jpeg)
+
 I'm currently a Ph.D. candidate in the Department of Computer Science at the University of California, Irvine (UCI), working with [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My research interests are in the intersection of operating systems, security, and programming analysis. I enjoy building reliable systems to solve realistic problems in both software engineering and operating systems.
 
-### Ongoing Project
+### contact me
 
-Reproduing race condition bugs in production kernel Fuzzing - Kernel fuzzing is an efficient technique to hunt hidden bugs inside the kernel. Those bugs are usually missed during the development phase. OS Kernel can be seen as a very complex software which usually has the most complicated bugs. This work focuses on using symbolic execution and static analysis to investigate the hard-to-reproduce race condition bugs reported by syzkaller and automatically generate reproducers for them.
+Email:  yingtong at uci dot edu
+Office:  Donald Bren Hall #3231
 
-```### Publications
+### Publications
 
 Yingtong Liu, Hsin-Wei Hung, Ardalan Amiri Sani. Mousse: A System for Selective Symbolic Execution of Programs with Untamed Environments. In Proc. ACM European Conference on Computer Systems (EuroSys), April 2020. (source code) (talk) (slides)
 
