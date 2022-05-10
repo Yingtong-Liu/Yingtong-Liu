@@ -5,7 +5,7 @@
 
 I'm currently a Ph.D. candidate in the Department of Computer Science at the University of California, Irvine (UCI), working with [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
 
-My research focuses on the intersection of operating systems, security, and programming analysis. I enjoy building reliable systems to solve realistic problems in both software engineering and operating systems.
+My research focuses on the intersection of security, operating systems, and programming analysis. I am excited about exploring how different programming analysis techniques can help to secure and improve the implementations of complex softwares. 
 
 Aside from work, I enjoy running, hiking, writing, and listening to all kinds of music.
 
