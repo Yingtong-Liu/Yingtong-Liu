@@ -38,5 +38,6 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 - [Instagram](https://www.instagram.com/yingtong_liu/)
 - [Medium](https://medium.com/@liuyingtonghust)
 - [Linkedin](https://www.linkedin.com/in/yingtong-liu-9ba23396/)
+- [SoundCloud](https://soundcloud.com/yingtong-liu-375022359)
 
 ### **Find my [CV](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Yingtong_cv.pdf)** 
