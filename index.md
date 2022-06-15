@@ -17,7 +17,7 @@ _Office:  Donald Bren Hall #3231_
 
 ### **Publications**
 
-Hsin-Wei Hung, Yingtong Liu, Ardalan Amiri Sani. [Sifter: Protecting Security-Critical Kernel Modules in Android through Attack Surface Reduction]
+Hsin-Wei Hung, Yingtong Liu, Ardalan Amiri Sani. [Sifter: Protecting Security-Critical Kernel Modules in Android through Attack Surface Reduction](xxx).
 _Accepted to ACM Int. Conf. Mobile Computing and Networking (MobiCom), October 2022
 
 Yingtong Liu, Hsin-Wei Hung, Ardalan Amiri Sani. [Mousse: A System for Selective Symbolic Execution of Programs with Untamed Environments](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/EuroSys20_Mousse_Yingtong.pdf). _In Proc. ACM European Conference on Computer Systems (EuroSys), April 2020. [(source code)](https://trusslab.github.io/mousse/) [(slides)](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Mousse_Yingtong_slides_long.pdf)_
