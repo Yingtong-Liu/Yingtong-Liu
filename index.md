@@ -36,6 +36,8 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 
 - [The Problem of Pain](http://www.samizdat.qc.ca/cosmos/philo/PDFs/ProblemofPain_CSL.pdf) by C.S. Lewis
 
+- [The Four Agreements](https://books-library.net/files/books-library.online-02171342Go0P8.pdf) by Don Miguel Ruiz
+
 ### **Social Media**
 
 - [Instagram](https://www.instagram.com/yingtong_liu/)
