@@ -3,17 +3,15 @@
 
 ### **About me**
 
-I receivved my Ph.D. from the Department of Computer Science at the University of California, Irvine (UCI) in 2022, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I received my B.Sc. degree from Huazhong University of Science and Technology (HUST), Wuhan, China. Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
+I receivved my Ph.D. from the Department of Computer Science at the University of California, Irvine (UCI) in August 2022, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I came from China and received my B.Sc. degree from Huazhong University of Science and Technology (HUST). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
 
-My research focuses on the intersection of security, operating systems, and programming analysis. I am excited about applying programming analysis techniques to secure and improve the implementations of complex softwares people use day to day, with operating system as one example.
+My research focused on the intersection of security, operating systems, and programming analysis. I am excited about applying programming analysis techniques to secure and improve the implementations of complex softwares people use day to day, with operating system as one example. I am now working on using automation to improve Web3 security. 
 
 Aside from work, I enjoy running, hiking, writing, and listening to all kinds of music.
 
 ### **Contact me**
 
-_Email:  yingtong at uci dot edu_
-
-_Office:  Donald Bren Hall #3231_
+_Email:  liuyingtonghust at gmail dot com_
 
 ### **Publications**
 
@@ -44,5 +42,6 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 - [Medium](https://medium.com/@liuyingtonghust)
 - [Linkedin](https://www.linkedin.com/in/yingtong-liu-9ba23396/)
 - [SoundCloud](https://soundcloud.com/yingtong-liu-375022359)
+- [Twitter](https://twitter.com/Yingtong_L)
 
 ### **Find my [CV](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Yingtong_cv.pdf)** 
