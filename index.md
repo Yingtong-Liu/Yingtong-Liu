@@ -3,7 +3,7 @@
 
 ### **About me**
 
-I receivved my Ph.D. from the Department of Computer Science at the University of California, Irvine (UCI) in August 2022, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I came from China and received my B.Sc. degree from Huazhong University of Science and Technology (HUST). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
+I received my Ph.D. from the Department of Computer Science at the University of California, Irvine (UCI) in August 2022, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I came from China and received my B.Sc. degree from Huazhong University of Science and Technology (HUST). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
 
 My research focused on the intersection of security, operating systems, and programming analysis. I am excited about applying programming analysis techniques to secure and improve the implementations of complex softwares people use day to day, with operating system as one example. I am now working on using automation to improve Web3 security. 
 
