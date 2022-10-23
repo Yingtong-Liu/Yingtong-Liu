@@ -2,7 +2,7 @@
 ![Me](ying.jpg)
 
 ### **About me**
-I am now a Sr. Software Engineer at [Certik](https://www.certik.com/) evolution team, working on smart contracts fuzzing and symbolic execution. 
+I am a Sr. Software Engineer at [Certik](https://www.certik.com/) evolution team, working on smart contracts fuzzing and symbolic execution. 
 
 I received my Ph.D. from the Department of Computer Science of the University of California, Irvine (UCI) in August 2022, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I came from China and has a B.Sc. degree from the Department of Computer Science of Huazhong University of Science and Technology (HUST). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
 
