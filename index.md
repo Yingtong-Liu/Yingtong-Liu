@@ -1,5 +1,5 @@
 
-![Me](ying.jpg)
+![Me](ying.jepg)
 
 ### **About me**
 I am a Sr. Software Engineer at [Certik](https://www.certik.com/) evolution team, working on symbolic execution and fuzzing on smart contracts.
