@@ -1,5 +1,5 @@
 
-![Me](ying.jpeg)
+![Me](ying.jpeg | width=100)
 
 ### **About me**
 I am a Sr. Software Engineer at [Certik](https://www.certik.com/) evolution team, working on symbolic execution and fuzzing on smart contracts.
