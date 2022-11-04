@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/ying.jpeg" width="250" height="300">
+<img src="https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/ying.jpeg" width="290" height="250">
 
 ### **About me**
 I am a Sr. Software Engineer at [Certik](https://www.certik.com/) evolution team, working on symbolic execution and fuzzing on smart contracts.
