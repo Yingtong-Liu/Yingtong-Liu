@@ -8,7 +8,7 @@ I received my Ph.D. from the Department of Computer Science of the University of
 
 My Ph.D. research focused on the intersection of security, operating systems, and program analysis. I am excited about applying program analysis techniques to secure and improve the implementations of complex softwares people use day to day, with operating system as one example. 
 
-Aside from work, I enjoy running, hiking, writing, and listening to all kinds of music.
+Aside from work, I enjoy running, hiking, cooking and spending time with my little one.
 
 ### **Contact me**
 
@@ -41,7 +41,7 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 
 - [Instagram](https://www.instagram.com/yingtong_liu/)
 - [Medium](https://medium.com/@liuyingtonghust)
-- [Linkedin](https://www.linkedin.com/in/yingtong-liu-9ba23396/)
+- [Linkedin](https://www.linkedin.com/in/sheisy-yingtong-liu-9ba23396/)
 - [Twitter](https://twitter.com/Yingtong_L)
 
 ### **Find my [CV](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Yingtong_cv.pdf)** 
