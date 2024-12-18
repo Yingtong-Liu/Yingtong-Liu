@@ -2,13 +2,11 @@
 <img src="ying.jpeg" width="240" height="250">
 
 ### **About me**
-I am a Sr. Software Engineer at [Certik](https://www.certik.com/) evolution team, working on symbolic execution and fuzzing on smart contracts.
+I am a Senior Software Engineer at [Certik](https://www.certik.com/), a leading company in Web3 security.
 
-I received my Ph.D. from the Department of Computer Science of the University of California, Irvine (UCI) in August 2022, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). I came from China and has a B.Sc. degree from the Department of Computer Science of Huazhong University of Science and Technology (HUST). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks. My hometown is Shangqiu, Henan Province, China.
+With extensive experience in software security, program analysis, operating systems, and blockchain security, I am passionate about leveraging automated program analysis techniques to enhance the security and reliability of software systems. My focus includes securing the critical implementations that power everyday technology, with a particular emphasis on operating systems. Additionally, I have a strong interest in designing and building high-performance, secure systems and infrastructures.
 
-My Ph.D. research focused on the intersection of security, operating systems, and program analysis. I am excited about applying program analysis techniques to secure and improve the implementations of complex softwares people use day to day, with operating system as one example. 
-
-Aside from work, I enjoy running, hiking, cooking and spending time with my little one.
+I received a Ph.D. in Computer Science from UC Irvine, advised by [Prof. Ardalan Amiri Sani](https://www.ics.uci.edu/~ardalan/). My research explores the intersection of operating systems and security. My work has been published in top-tier conferences, including ACM EuroSys, ACM MobiCom, and ACM ASPLOS. I have a B.Sc. degree from the Department of Computer Science of Huazhong University of Science and Technology (HUST). Before coming to UCI, I worked with [Prof. Chen Tian](https://cs.nju.edu.cn/tianchen/index.htm) on datacenter networks.
 
 ### **Contact me**
 
@@ -27,9 +25,9 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 
 ### **My cat**
 
-[Taco](https://drive.google.com/drive/u/1/folders/1EOdUHqBvzgyymPQ0aS11SF9LzkQnP70I) was born on 09/17/2017. I adopted her from [Irvine Animal Care Center](https://www.cityofirvine.org/irvine-animal-care-center) when she was 3 months old. She is shy and naughty at the same time.
+[Taco](https://drive.google.com/drive/u/1/folders/1EOdUHqBvzgyymPQ0aS11SF9LzkQnP70I) was born on 09/17/2017. I adopted her from [Irvine Animal Care Center](https://www.cityofirvine.org/irvine-animal-care-center) when she was 3 months old. She is both shy and naughty.
 
-### **Books**
+### **My favorite Books**
 
 - [The Screwtape Letters](http://www.samizdat.qc.ca/arts/lit/PDFs/ScrewtapeLetters_CSL.pdf) by C.S. Lewis
 
