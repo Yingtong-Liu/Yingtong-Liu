@@ -14,7 +14,7 @@ _Email:  liuyingtonghust at gmail dot com_
 
 ### **Publications**
 
-Hsin-Wei Hung, Yingtong Liu, Ardalan Amiri Sani. [Sifter: Protecting Security-Critical Kernel Modules in Android through Attack Surface Reduction](xxx).
+Hsin-Wei Hung, Yingtong Liu, Ardalan Amiri Sani. [Sifter: Protecting Security-Critical Kernel Modules in Android through Attack Surface Reduction](https://dl.acm.org/doi/10.1145/3495243.3560548).
 _Accepted to ACM Int. Conf. Mobile Computing and Networking (MobiCom), October 2022_ [(source code)](https://trusslab.github.io/sifter/)
 
 Yingtong Liu, Hsin-Wei Hung, Ardalan Amiri Sani. [Mousse: A System for Selective Symbolic Execution of Programs with Untamed Environments](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/EuroSys20_Mousse_Yingtong.pdf). _In Proc. ACM European Conference on Computer Systems (EuroSys), April 2020. [(source code)](https://trusslab.github.io/mousse/) [(slides)](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Mousse_Yingtong_slides_long.pdf)_
@@ -37,9 +37,8 @@ Chen Tian, Ali Munir, Alex X. Liu, Yingtong Liu, Yanzhao Li, Jiajun Sun, Fan Zha
 
 ### **Social Media**
 
-- [Instagram](https://www.instagram.com/yingtong_liu/)
 - [Medium](https://medium.com/@liuyingtonghust)
-- [Linkedin](https://www.linkedin.com/in/sheisy-yingtong-liu-9ba23396/)
+- [Linkedin](https://www.linkedin.com/in/yingtong-liu-9ba23396/)
 - [Twitter](https://twitter.com/Yingtong_L)
 
 ### **Find my [CV](https://github.com/Yingtong-Liu/Yingtong-Liu.github.io/blob/main/Yingtong_cv.pdf)** 
